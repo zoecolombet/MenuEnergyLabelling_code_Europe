@@ -1,0 +1,1 @@
+# MenuEnergyLabelling_code_Europe
