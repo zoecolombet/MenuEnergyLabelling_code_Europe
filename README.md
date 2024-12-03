@@ -3,10 +3,10 @@ This repository shares the code for our analysis of the health impact of impleme
 
 This repository contains the following files:
 
-    dyn_menu_labelling_germany - MC - foreach.R: codes for running the model in Germany
-    dyn_menu_labelling_belgium - MC - foreach.R: codes for running the model in Belgium
+    dyn_menu_labelling_belgium - MC - foreach v1.7.R: codes for running the model in Belgium
+    dyn_menu_labelling_germany - MC - foreach v1.7.R: codes for running the model in Germany
 
-NOTE FOR USERS
+# NOTE FOR USERS
 Belgium --> with _200s (scale factor of 200)
 Germany --> with _500s (scale factor of 500)
 
