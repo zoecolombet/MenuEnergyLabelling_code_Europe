@@ -1,5 +1,5 @@
 # MenuEnergyLabelling_code_Europe
-This repository shares the code for our analysis of the health impact of implementing menu calory labelling in Europe. The results of our analysis are currently submitted in a peer-reviewed paper.
+This repository shares the code for our analysis of the health impact of implementing menu calory labelling in Europe. The results are published in a paper: Putra IGNE, O’Flaherty M, Emmert-Fees KMF, Vasquez MS, Evans R, Peters A, Kypridemos C, Berger N, Robinson E, Colombet Z. Estimating the impact of mandatory menu calorie labelling policy and sugar-sweetened beverage taxes on adult obesity prevalence and cardiovascular mortality in two European countries: a simulation modelling study 2024:2024.11.18.24317496. medRxIV 2024 https://doi.org/10.1101/2024.11.18.24317496.
 
 This repository contains the following files:
 
